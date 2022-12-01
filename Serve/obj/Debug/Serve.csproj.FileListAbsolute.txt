@@ -1,0 +1,14 @@
+C:\Users\chamsoclaptop.vn.DESKTOP-GH09EGJ\source\repos\Serve\Serve\bin\Debug\Serve.exe.config
+C:\Users\chamsoclaptop.vn.DESKTOP-GH09EGJ\source\repos\Serve\Serve\bin\Debug\Serve.exe
+C:\Users\chamsoclaptop.vn.DESKTOP-GH09EGJ\source\repos\Serve\Serve\bin\Debug\Serve.pdb
+C:\Users\chamsoclaptop.vn.DESKTOP-GH09EGJ\source\repos\Serve\Serve\obj\Debug\Serve.csprojAssemblyReference.cache
+C:\Users\chamsoclaptop.vn.DESKTOP-GH09EGJ\source\repos\Serve\Serve\obj\Debug\Serve.Server.resources
+C:\Users\chamsoclaptop.vn.DESKTOP-GH09EGJ\source\repos\Serve\Serve\obj\Debug\Serve.Properties.Resources.resources
+C:\Users\chamsoclaptop.vn.DESKTOP-GH09EGJ\source\repos\Serve\Serve\obj\Debug\Serve.csproj.GenerateResource.cache
+C:\Users\chamsoclaptop.vn.DESKTOP-GH09EGJ\source\repos\Serve\Serve\obj\Debug\Serve.csproj.CoreCompileInputs.cache
+C:\Users\chamsoclaptop.vn.DESKTOP-GH09EGJ\source\repos\Serve\Serve\obj\Debug\Serve.exe
+C:\Users\chamsoclaptop.vn.DESKTOP-GH09EGJ\source\repos\Serve\Serve\obj\Debug\Serve.pdb
+C:\Users\chamsoclaptop.vn.DESKTOP-GH09EGJ\source\repos\Serve\Serve\bin\Debug\Clien.exe
+C:\Users\chamsoclaptop.vn.DESKTOP-GH09EGJ\source\repos\Serve\Serve\bin\Debug\Clien.pdb
+C:\Users\chamsoclaptop.vn.DESKTOP-GH09EGJ\source\repos\Serve\Serve\bin\Debug\Clien.exe.config
+C:\Users\chamsoclaptop.vn.DESKTOP-GH09EGJ\source\repos\Serve\Serve\obj\Debug\Serve.csproj.CopyComplete

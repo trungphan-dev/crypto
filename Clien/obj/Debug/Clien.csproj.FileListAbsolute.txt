@@ -1,0 +1,10 @@
+C:\Users\chamsoclaptop.vn.DESKTOP-GH09EGJ\source\repos\Serve\Clien\bin\Debug\Clien.exe.config
+C:\Users\chamsoclaptop.vn.DESKTOP-GH09EGJ\source\repos\Serve\Clien\bin\Debug\Clien.exe
+C:\Users\chamsoclaptop.vn.DESKTOP-GH09EGJ\source\repos\Serve\Clien\bin\Debug\Clien.pdb
+C:\Users\chamsoclaptop.vn.DESKTOP-GH09EGJ\source\repos\Serve\Clien\obj\Debug\Clien.Client.resources
+C:\Users\chamsoclaptop.vn.DESKTOP-GH09EGJ\source\repos\Serve\Clien\obj\Debug\Clien.Properties.Resources.resources
+C:\Users\chamsoclaptop.vn.DESKTOP-GH09EGJ\source\repos\Serve\Clien\obj\Debug\Clien.csproj.GenerateResource.cache
+C:\Users\chamsoclaptop.vn.DESKTOP-GH09EGJ\source\repos\Serve\Clien\obj\Debug\Clien.csproj.CoreCompileInputs.cache
+C:\Users\chamsoclaptop.vn.DESKTOP-GH09EGJ\source\repos\Serve\Clien\obj\Debug\Clien.exe
+C:\Users\chamsoclaptop.vn.DESKTOP-GH09EGJ\source\repos\Serve\Clien\obj\Debug\Clien.pdb
+C:\Users\chamsoclaptop.vn.DESKTOP-GH09EGJ\source\repos\Serve\Clien\obj\Debug\Clien.csprojAssemblyReference.cache
